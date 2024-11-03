@@ -1,5 +1,4 @@
-# Nadine Ahmed
-**Computer Sciences**
+**About Me**
 
 Welcome to my portfolio! I am a CS student in my third year at Misr University for Science and Technology, with a passion for AI, data engineering, frontend development, and cybersecurity.
 
