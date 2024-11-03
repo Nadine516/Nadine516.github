@@ -1,8 +1,6 @@
 # Nadine Ahmed
 **Computer Sciences**
 
-![Logo](https://github.com/Nadine516/Portfolio-/blob/main/assets/mee.jpg?raw=true)
-
 Welcome to my portfolio! I am a CS student in my third year at Misr University for Science and Technology, with a passion for AI, data engineering, frontend development, and cybersecurity.
 
 ## Education
