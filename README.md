@@ -3,11 +3,11 @@
 
 ![Logo](https://github.com/Nadine516/Portfolio-/blob/main/assets/mee.jpg?raw=true)
 
-Welcome to my portfolio! I am a CS student with a passion for AI, data engineering, frontend development, and cybersecurity.
+Welcome to my portfolio! I am a CS student in my third year at Misr University for Science and Technology, with a passion for AI, data engineering, frontend development, and cybersecurity.
 
 ## Education
 - **Computer Science Major**  
-  Focusing on Data Science, Machine Learning, Deep Learning, and Angular for front-end development.
+  Currently in my third level at Misr University for Science and Technology, focusing on Data Science, Machine Learning, Deep Learning, and Angular for front-end development.
 
 ## Work Experience
 - **Frontend Developer Intern at GBG Company**  
@@ -26,3 +26,4 @@ Welcome to my portfolio! I am a CS student with a passion for AI, data engineeri
 - Data Engineering
 - Frontend Development with Angular
 - Cybersecurity
+
